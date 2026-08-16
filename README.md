@@ -1,5 +1,5 @@
-# Archalis Linux 
-Archalis Linux is a set of install scripts and configuration files for a minimalistic [Arch Linux](https://archlinux.org/) development setup.
+# Arch Linux Dotfiles
+Arch Linux Dotfiles  is a set of install scripts and configuration files for a minimalist [Arch Linux](https://archlinux.org/) development setup.
 
 This is primarily a hobby/learning project, and some of the configuration is specific to the hardware I'm using to develop this install. YMMV.
 
